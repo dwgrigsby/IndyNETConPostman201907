@@ -1,5 +1,6 @@
 # IndyNETConPostman201907
 Indy .NET Consortium - Tricking out Postman, The API Development Environment (sound and raw transcript)
+Link to meetup session https://www.meetup.com/Indy-NET-Consortium/events/262505890/
 
 Sound link due to size > 25mb is https://drive.google.com/file/d/1RX08ysjoFBPXaIyHkbwrk3WYLBOlzmWY/view?usp=sharing
 
